@@ -21,15 +21,15 @@
 |--------|------------|-------------|
 | [Firebase](https://github.com/AdhilKurikkal/firebase) | Dart, Firebase | Sample Flutter-Firebase integration |
 | [SneakX](https://github.com/AdhilKurikkal/SneakX) | Flutter, Dart | Sneaker e-commerce app UI (in progress) |
-| [mvcriveradvnceapp](https://github.com/AdhilKurikkal/mvcriveradvnceapp) | C++ | Console-based advanced MVC example |
-| [Notes](https://github.com/AdhilKurikkal/Notes) | C++ | Simple Note app CLI version |
+| [mvcriveradvnceapp](https://github.com/AdhilKurikkal/mvcriveradvnceapp) |Flutter, Riverpod | Console-based advanced MVC example |
+| [Notes](https://github.com/AdhilKurikkal/Notes) | Flutter, Dart| Simple Note app Ios version |
 
 ---
 
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,nodejs,mongodb,postgresql,vscode,cpp" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,nodejs,mongodb,postgresql,vscode,python,androidstudio,riverpod,bloc" />
 </p>
 
 ---
